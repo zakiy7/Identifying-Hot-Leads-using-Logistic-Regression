@@ -1,5 +1,5 @@
 # Identifying-Hot-Leads-using-Logistic-Regression
-rom 30% to 80% conversion rate!!!
+from 30% to 80% conversion rate!!!
 
 The Business problem was they were getting good amount of leads but conversion rate was mere 30%.
 
